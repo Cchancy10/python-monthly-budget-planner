@@ -34,19 +34,23 @@ A simple desktop GUI application built in Python that helps users track their mo
 
 ### Main Interface
 The main window where users enter their income and expenses.
-![Main Interface](screenshots/main-interface.png)
+
+![Main Interface](Screenshots\main-interface.png)
 
 ### Total Expenses Calculation
 After clicking **"Calculate Budget"**, a pop up displays the total of all entered expenses.
-![Total Expenses](screenshots/total-expenses.png)
+
+![Total Expenses](Screenshots\total-expenses.png)
 
 ### Remaining Balance
 A second popup shows the remaining balance after expenses are subtracted from income.
-![Remaining Balance](screenshots/remaining-balance.png)
+
+![Remaining Balance](Screenshots\remaining-balance.png)
 
 ### Budget Status Message
 A final popup lets the user know whether they are over budget, on budget, or under budget.
-![Under Budget](screenshots/popup-message.png)
+
+![Under Budget](Screenshots\popup-message.png)
 
 ## Challenges
 * My code wasn't properly indented which initially prevented it from executing.
